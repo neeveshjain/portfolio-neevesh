@@ -3,7 +3,7 @@ export default function Hero() {
     <section className="hero">
       <div className="hero-content">
         <div className="hero-photo-container">
-            <img src="/Photu.jpg" alt="Neevesh Jain" className="hero-photo" />
+            <img src="src/assets/Photu.jpg" alt="Neevesh Jain" className="hero-photo" />
         </div>
         <div className="hero-text">
           <h1>I'm Neevesh Jain.</h1>
