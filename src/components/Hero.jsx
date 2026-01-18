@@ -17,7 +17,7 @@ export default function Hero() {
             <a href="mailto:neeveshjain27@gmail.com">Email</a>
             <a href="https://www.linkedin.com/in/neevesh-jain/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
             <a href="https://github.com/neeveshjain" target="_blank" rel="noopener noreferrer">Github</a>
-            <a href="Neevesh Jain - Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+            <a href="Neevesh-Jain-Resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
           </div>
         </div>
       </div>
